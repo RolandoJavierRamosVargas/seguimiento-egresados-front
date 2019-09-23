@@ -1,8 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+
+// Componentes de la interfaz
+import App from './Componentes/App';
+import FormacionAcademica from './Componentes/FormacionAcademica';
+
 import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import $ from 'jquery';
+import Popper from 'popper.js';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
