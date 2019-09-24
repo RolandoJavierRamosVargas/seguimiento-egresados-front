@@ -13,7 +13,7 @@ class FormacionAcademica extends React.Component {
                         <input type="text" className="form-control"></input>
                     </div>
 
-                    <h2>Programa Cursado</h2>
+                    <h3>Programa Cursado</h3>
                     <hr></hr>
                      <div className="form-check">
                         <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" /> 

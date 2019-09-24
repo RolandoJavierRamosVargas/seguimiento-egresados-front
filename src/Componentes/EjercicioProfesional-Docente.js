@@ -5,6 +5,7 @@ class EjercicioProfesionalDocente extends React.Component {
     render () {
         return (
             <div>
+                <h2>Ejercicio Profesional-Docente</h2>
                 <form>
                     <div className="form-group">
                         <label>Entidad </label>
